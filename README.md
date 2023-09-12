@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://mirpolatov_m/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  [![Gmail](https://img.shields.io/badge/maxmudjonovvalijon@gmail.com-%230077B5.svg?logo=google&logoColor=white)] [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/hacker_1708/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/mirpolatov_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  [![Gmail](https://img.shields.io/badge/maxmudjonovvalijon@gmail.com-%230077B5.svg?logo=google&logoColor=white)] [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/hacker_1708/)
 
 
 
