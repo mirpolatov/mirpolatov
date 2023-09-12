@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about Python, Django, Sql, PostgreSQL, Telegram Bot
 - 📰 I regularly write articles on [@PythonGuy](https://t.me/PythonGuy)
-- 📫 How to reach me [maxmudjonovvalijon@gmail.com]
+- 📫 How to reach me mirazizmirpolatov9@gmail.com
 
 - 📄 Know about my experiences by this [Resume](https://github.com/FBR1708/My_resume/blob/master/resume.pdf)
 
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/mirpolatov_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  ![Gmail](https://img.shields.io/badge/mirazizmirpolatov9@gmail.com-%230077B5.svg?logo=google&logoColor=white) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/aizbeee/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/mirpolatov_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miraziz-mirpolatov-8429b8278/)  ![Gmail](https://img.shields.io/badge/mirazizmirpolatov9@gmail.com-%230077B5.svg?logo=google&logoColor=white) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/aizbeee/)
 
 
 
