@@ -23,13 +23,13 @@ You can click the Preview link to take a look at your changes.
 - 📰 I regularly write articles on [@PythonGuy](https://t.me/PythonGuy)
 - 📫 How to reach me [mirazizmirpolatov9@gmail.com]
 
-- 📄 Know about my experiences by this [Resume](https://github.com/mirpolatov/my_resume/blob/master/miraziz.pdf)
+- 📄 Know about my experiences by this (Resume](https://github.com/mirpolatov/my_resume/blob/master/miraziz.pdf)
 
 
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://djangochi.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  [![Gmail](https://img.shields.io/badge/mirazizmirpolatov9@gmail.com-%230077B5.svg?logo=google&logoColor=white)] [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/azizbeee/)
+(![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://djangochi.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  [![Gmail](https://img.shields.io/badge/mirazizmirpolatov9@gmail.com-%230077B5.svg?logo=google&logoColor=white)] [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/azizbeee/)
 
 
 
