@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FBR1708
+- 👋 Hi, I’m @mirpolatov
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞 I’m looking to collaborate on ... 
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
-<h1 align="center">Hi 👋, I'm Valijon</h1>
+<h1 align="center">Hi 👋, I'm Miraziz</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <p align="center">
 </p>
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/mirpolatov_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  [![Gmail](https://img.shields.io/badge/maxmudjonovvalijon@gmail.com-%230077B5.svg?logo=google&logoColor=white)] [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/hacker_1708/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/mirpolatov_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  ![Gmail](https://img.shields.io/badge/mirazizmirpolatov9@gmail.com-%230077B5.svg?logo=google&logoColor=white) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/aizbeee/)
 
 
 
