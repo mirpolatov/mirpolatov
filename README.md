@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about Python, Django, Sql, PostgreSQL, Telegram Bot
 - 📫 How to reach me mirazizmirpolatov9@gmail.com
 
-- 📄 Know about my experiences by this [Resume](https://github.com/FBR1708/My_resume/blob/master/resume.pdf)
+- 📄 Know about my experiences by this [Resume](https://github.com/mirpolatov/my_resume/blob/master/miraziz.pdf)
 
 
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
